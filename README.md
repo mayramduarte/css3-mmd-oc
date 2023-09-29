@@ -12,12 +12,12 @@
 
 <h2>Projects (Projetos)</h2>
 
-<p><a href="https://mayramduarte.github.io/4-css3-mmd-oc/11-exercicio-recriando-um-site-com-css-1
+<p><a href="https://mayramduarte.github.io/css3-mmd-oc/11-exercicio-recriando-um-site-com-css-1
 /ex001" target="_blank">Exercise-001 (Exercício-001)</a></p>
 
-<p><a href="https://mayramduarte.github.io/4-css3-mmd-oc/16-exercicio-recriando-um-site-com-css-2
+<p><a href="https://mayramduarte.github.io/css3-mmd-oc/16-exercicio-recriando-um-site-com-css-2
 /ex002/" target="_blank">Exercise-002 (Exercício-002)</a></p>
 
 <h2>Exercises (Exercícios)</h2>
 
-<p><a href="https://mayramduarte.github.io/4-css3-mmd-oc/3-primeiro-css/pr001" target="_blank">Practice-001 (Prática-001)</a></p>
+<p><a href="https://mayramduarte.github.io/css3-mmd-oc/3-primeiro-css/pr001" target="_blank">Practice-001 (Prática-001)</a></p>
