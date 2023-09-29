@@ -1,0 +1,27 @@
+body {
+  background-color: antiquewhite;
+  background-image: url("./imagens/jupiter.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+  border-color: yellow;
+  border-width: 4px;
+  border-style: solid;
+}
+
+h2 {
+  background-color: yellow;
+  color: purple;
+}
+
+ul {
+  border: 2px dashed white;
+}
+
+li {
+  font-size: 20px;
+}
+
