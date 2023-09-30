@@ -1,6 +1,6 @@
 # css3-mmd-oc
 
-<h1> Course CSS3 - Curso OneBitCode - Leonardo Scorza</h1>
+<h1> Course - CSS3 - Curso OneBitCode - Leonardo Scorza</h1>
 
 <h2>Topics (Conteúdo)</h2>
 
