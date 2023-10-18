@@ -6,7 +6,7 @@
 
 <h3>CSS3</h3>
 
-<p>Colors. Background and Borders. Selectors. Browser Inspector. Advanced Selectors. Specificity.Inheritance. Text and Fonts. Google Fonts. Box Model.</p>
+<p>Colors. Background and Borders. Selectors. Browser Inspector. Advanced Selectors. Specificity. Inheritance. Text and Fonts. Google Fonts. Box Model.</p>
 
 <p>Cores. Background e Bordas. Seletores. Inspetor no Navegador. Seletores Avançados. Especificidade. Herança. Texto e Fontes. Fontes Google. Box Model.</p>
 
